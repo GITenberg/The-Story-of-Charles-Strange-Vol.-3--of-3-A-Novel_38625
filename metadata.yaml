@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1177
     wikipedia: http://en.wikipedia.org/wiki/Ellen_Wood_%28author%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38625#The-Story-of-Charles-Strange-Vol.-3--of-3-A-Novel
 gutenberg_issued: '2012-01-20'
 gutenberg_type: Text
 identifiers:
